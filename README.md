@@ -27,3 +27,5 @@
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry-pi&logoColor=white"/>
 <img alt="KDE neon" src="https://img.shields.io/badge/KDE%20neon-1ba2ab.svg?style=for-the-badge&logo=kde&logoColor=white"/></a>
+
+<img alt="visitors" src="https://page-views.glitch.me/badge?page_id=jwenjian.visitor-badge"/>
