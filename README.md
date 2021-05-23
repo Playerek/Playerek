@@ -1,5 +1,5 @@
 # About me
-#### I am a beginner pogrammer, using basic technologies. 
+#### A beginner pogrammer, using basic technologies. Mostly, programs discord applications in JavaScript.
 
 # Languages I use
 <a><img alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -13,6 +13,7 @@
 
 # Technologies I use
 <a><img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+<img alt="Discord.js" src="https://img.shields.io/badge/Discord.js-2eb6e6.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
 
