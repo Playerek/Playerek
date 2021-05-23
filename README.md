@@ -31,4 +31,4 @@
 # Contact to me
 
 <a><a href="https://discord.com/users/684739865598099490"><img alt="Playerek#9735" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="mailto:playerekinfo@gmail.com?body=Write... what you want!"><img alt="playerekinfo@gmail.com" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></a>
+<a href="mailto:playerekinfo@gmail.com?subject=I like your biscuits!&body=Write... what you want!"><img alt="playerekinfo@gmail.com" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></a>
