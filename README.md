@@ -1,5 +1,5 @@
 # About me
-#### A beginner pogrammer, using basic technologies. Mostly, programs discord applications in JavaScript.
+#### A beginner pogrammer, using basic technologies. Mostly, programs discord applications in JavaScript and develops websites.
 
 # Languages I use
 <a href="https://github.com/Playerek">
