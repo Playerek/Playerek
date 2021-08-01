@@ -1,5 +1,5 @@
 # About me
-#### A beginner pogrammer, using basic technologies. Mostly, programs discord applications in JavaScript and develops websites.
+#### A beginner pogrammer, using basic technologies. Mostly, develops websites and programs discord applications in JavaScript
 
 # Languages I use
 <a href="https://github.com/Playerek">
@@ -18,7 +18,6 @@
     <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
     <img alt="Discord.js" src="https://img.shields.io/badge/Discord.js-2eb6e6.svg?style=for-the-badge&logo=discord&logoColor=white"/>
     <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </a>
 
 # Programs, IDEs and editors I use
