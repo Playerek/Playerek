@@ -15,7 +15,7 @@
 
 # Technologies I use
 <a href="https://github.com/Playerek">
-    <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+    <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img alt="Discord.js" src="https://img.shields.io/badge/Discord.js-2eb6e6.svg?style=for-the-badge&logo=discord&logoColor=white"/>
     <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-9625cf.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
