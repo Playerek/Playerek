@@ -1,5 +1,5 @@
 # About me
-#### A beginner pogrammer, using basic technologies. Mainly deals with website frontend development and management.
+#### A beginner programmer, using basic technologies. Mainly deals with website frontend development and management.
 
 # Languages I use
 <a href="https://github.com/Playerek">
