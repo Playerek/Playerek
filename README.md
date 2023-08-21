@@ -1,6 +1,7 @@
 # About me
-#### A fascinated programmer, using basic technologies with a passion. Mainly deals with website frontend and management.
-More info on [my page](https://playerek.tk).
+#### A fascinated programmer, using basic technologies with pleasure. Mainly involved in frontend and website management.
+#### I'm passionate about electronics, music and astronomy. I'm also interested in automotive and law.
+More info on [my page](https://playerek.tk) (in Polish).
 
 # Languages I use
 <a href="https://github.com/Playerek">
